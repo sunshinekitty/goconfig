@@ -29,11 +29,11 @@ the Python Standard Library.
 
 ## Installation
 
-	go get github.com/kless/goconfig/config
+	go get github.com/bububa/goconfig/config
 
 To run the tests:
 
-	cd ${GOPATH//:*}/src/github.com/kless/goconfig/config && go test && cd -
+	cd ${GOPATH//:*}/src/github.com/bububa/goconfig/config && go test && cd -
 
 
 ## Operating instructions
